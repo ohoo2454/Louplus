@@ -1,0 +1,4 @@
+latiao: "600a8e6143f2cacd7239308d.jpg",
+candy: "600a8f4b43f2cacd7239308f.jpg"
+macbook: "600a8f8343f2cacd72393091.jpg"
+syl-logo: "600a8fb343f2cacd72393093.jpg"
